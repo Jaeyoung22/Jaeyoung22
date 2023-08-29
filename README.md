@@ -7,7 +7,7 @@
 
 최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 이바지했습니다.
 
-<a href="http://joseph415.github.io/resume/">
+<a href="http://jaeyoung22.github.io">
     <img 
         src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=http://joseph415.github.io/resume/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -16,7 +16,7 @@
 # 우아한테크코스
 
 ## ✏️ Woowacourse Learns
-<a href="https://github.com/joseph415/woowacourse-learns">
+<a href="https://github.com/Jaeyoung22/woowacourse-learns">
     <img 
         src="http://img.shields.io/badge/-Github Repo-1b262c?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -24,7 +24,7 @@
 
 ## 📑 Project
 
-### 직고래
+### 트립드로우
 **따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다**
 <div>
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
