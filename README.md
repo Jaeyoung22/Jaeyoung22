@@ -11,10 +11,9 @@
 
 ## Stack
 - Java, Python
-- Spring Boot, Spring MVC, Spring Data JPA, Spring AOP, Junit5, AssertJ, Mockito
-- MySQL, JPA(Hibernate)
-- Nginx, AWS EC2
-- 
+- Spring Framework
+- JPA
+- K8S
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoung22&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
