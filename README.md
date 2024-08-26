@@ -1,19 +1,18 @@
-# Dilige et fac quod vis
-사람과 세상에 애정을 가지고, 모두가 자아를 안전하게 실현하는 세상을 만듭니다.
-
-꾸준함을 기반으로 폭발적으로 성장합니다.
-
-새로운 것에 거부감이 없으며 뛰어난 습득력으로 빠르게 흡수합니다. 
-
-항상 질문을 하며, 온전히 이해할 때까지 집요하게 학습합니다.
-
-프로젝트에서도 모든 새로운 기술과 도구를 소화하여 팀에 도움이 되는 구성원입니다.
+# 기술로 세상을 더욱 편하고 아릅답게 만드는 개발자, 오영택입니다.
+기술에 매몰되지 않고, 고객의 입장에서 서비스를 마주합니다.
+조직과 스스로의 목표를 달성하고 성과를 내기 위해서 새로운 개념과 도구를 빠르게 배우고 적용합니다.
+문제 해결 능력이 뛰어나고, 더 근본적인 해결방법을 찾기 위해 계속해서 의심합니다.
+모르는 것은 진지하게 학습하고, 아는 것은 유쾌하게 공유합니다.사람과 세상에 애정을 가지고, 모두가 자아를 안전하게 실현하는 세상을 만듭니다.
 
 ## Stack
 - Java, Python
-- Spring Framework
-- JPA
-- K8S
+- Spring Boot
+- MySQL, PostgreSQL
+- Elasticsearch, OpenSearch, Redis
+- JPA(Hibernate)
+- K8S, Docker
+- Kafka
+- Junit5, Testcontainers
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoung22&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
