@@ -13,6 +13,7 @@
 - K8S, Docker
 - Kafka
 - Junit5, Testcontainers
+- Jenkins
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeyoung22&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
